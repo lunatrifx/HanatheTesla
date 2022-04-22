@@ -1,0 +1,51 @@
+# April 18, 2022: Day Zero for Tesla RC Car from Diecast #
+
+Project: Hana the Tesla (Great Saphenous)
+
+Project Lead: r/metmyecephali (pnickqlim/sinomoon)
+
+--------------------------------------------Introduction----------------------------------------------
+
+Project Items (As of 4/18)
+	- Deconstructed Cloud Rider 2.0 Drone
+	- Deconstructed camera module
+	- Remote Control for Cloud Rider 2.0 Drone
+	
+Project Items (Not available as of 4.18)
+	- 3.7V, x mAh Battery
+	- Tesla Model S/3 Diecast
+	
+Observations From Day Zero:
+	- Deconstruction of Cloud Rider 2.0 was difficult as it appeared wingtips were all saudered together
+	- Almost all materials are readily available from the Cloud Rider 2.0
+	- Drone has all four working motor sets, can draw plans for an AWD configuration of diecast
+	- Drone's motherboard potentially small enough to fit the rear of 1:18 diecast without any invasive procedure
+	- The drone had two sets of LEDs (2 White, 2 Red)
+
+Procedure: 
+	- I had to use box cutter heated by lighter to undo the saudering at wingtips
+	- Organize screws holding down motherboard and LEDs
+	- I had to create a 3d rendition on Autocad 360 Fusion to help me see it better 
+	
+Project Dimensions: (All measurements are in metric system)
+	1) Tesla Model 3
+				- Length: 260mm
+				- Width: 113mm
+				- Height: 80mm
+				- Weight: 1.08kg
+	2) Tesla Model S
+				- Length: 275mm
+				- Width: 120mm
+				- Height: 80mm
+				- Weight: 1.25kg
+	3) QX-171OYSZ-RX Motherboard:
+				- Length: 57.15mm
+				- Width: 50.8mm at longest point (camera module input)
+				- Height: >1.59mm 
+				
+Brief Discussion:
+
+I'm looking forward to building and leading the CodeHana project! It is my 4th annual project after CodeJxea, HepburnAUYHA, Jejubee and I hope to find
+enjoyment in taking on my newest project for the 2022 season. I have confidence that drone parts will work and will at least give a RWD configuration.
+However, I do have concerns that the diecast Model 3 or S will require brute force into the models to get into the axle and wire the motor into them. I
+am also concerned about finding a new 3.7V battery module after Cloud Rider doesn't supply missing parts after years of ownership. 
