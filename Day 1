@@ -1,0 +1,45 @@
+# April 22, 2022: Day One for Tesla RC Car from Diecast #
+
+Project: Hana the Tesla (Great Saphenous)
+
+Project Lead: r/metmyecephali (pnickqlim/sinomoon)
+
+--------------------------------------------Introduction----------------------------------------------
+
+Project Items (As of 4/21)
+	- Deconstructed Cloud Rider 2.0 Drone
+	- Deconstructed camera module
+	- Remote Control for Cloud Rider 2.0 Drone
+  - Tesla Model S Diecast (Blue)
+	
+Project Items (Not available as of 4/21)
+	- 3.7V, x mAh Battery
+	
+Observations From Day One:
+	- Tesla Model S Diecast is awaiting delivery (message from Tesla)
+  - Motherboard was laid out flat with components and measured to see fit to diecast
+  - Front motors may not reach front of diecast 
+  - May have to relocate location for motherboard to center of car (just consideration)
+  - By having Model S, more room in trunk for motherboard
+  - Model S may need more brute force to enter internals
+
+Procedure: 
+	- Nothing significant to note 
+  - Motherboard was laid flat with all motors and camera module attached
+  - Model S awaiting delivery, just received notice from Tesla
+	
+Project Dimensions: (All measurements are in metric system)
+	1) Tesla Model S
+				- Length: 275mm
+				- Width: 120mm
+				- Height: 80mm
+				- Weight: 1.25kg
+	2) QX-171OYSZ-RX Motherboard:
+				- Length: 57.15mm
+				- Width: 50.8mm at longest point (camera module input)
+				- Height: >1.59mm 
+				
+Brief Discussion:
+
+Today is Earth Day but also the day HanatheTesla was officially logged as a working project. The Model S diecast is a little bit longer and wider than the 
+Model 3, but it should do more benefit than harm for the project.
